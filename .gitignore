@@ -1,0 +1,12 @@
+# Model weights (too large for GitHub, use Git LFS or download separately)
+model/*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
